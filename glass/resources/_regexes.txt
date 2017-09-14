@@ -1,0 +1,74 @@
+find	\r\n([0-9])
+repl	\r\n\t\t\t\t\t\t\t\t\t\t\t\t$1
+
+find	°
+repl	0
+
+find	 - 
+repl	-
+
+find	 -
+repl	-
+
+find	- 
+repl	-
+
+find	-
+repl	 - 
+
+find	\r\n(\d\d\d)\r\n
+repl	\r\n0\1\r\n
+
+find	\r\n(\d\d)\r\n
+repl	\r\n00\1\r\n
+
+find	\r\n[a-z]
+repl	BY HAND
+
+find	\r\n[^'"a-zA-Z\d\s:]
+repl	BY HAND
+
+find	\t[\w]
+repl	
+
+find	“
+repl	"
+
+find	”
+repl	"
+
+find	’
+repl	'
+
+find	 1
+repl	 I
+
+find	~
+repl	-
+
+find	 \|
+repl	
+
+find	 [[DOT]]
+repl	
+
+find	 ■
+repl	
+
+find	 [^aI\W]\r\n
+repl	
+
+find	 ;
+repl	
+
+find	 s 
+repl	's 
+
+find	\*
+repl	BY HAND
+
+find	\^
+repl	BY HAND
+
+find	([a-z])([A-Z])
+repl	\1\r\n\2

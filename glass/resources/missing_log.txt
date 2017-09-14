@@ -1,0 +1,1528 @@
+INFO> lexdir is /usr0/apache2/cgi-bin/tools/logios/MakeDict/lib/lexdata/
+INFO> found main dict: /usr0/apache2/cgi-bin/tools/logios/MakeDict/lib/dict/cmudict_SPHINX_40
+pronounce: verbosity is 1
+HABILIMENTS - By LtoS rules
+SIGNALIZE - Morpheme: SIGNAL IZE 
+GAMBOLS - By LtoS rules
+ADOWN - Morpheme: A DOWN 
+DISPOSERS - Morpheme: DISPOSE ER S 
+CLASPS - Morpheme: CLASP S 
+FINALLEST - Morpheme: FINAL EST 
+TIPPLER - Morpheme: TIPPLE ER 
+WHOSO - By LtoS rules
+HIMMALEH - By LtoS rules
+UNROLL - Main 
+ELIGIBLY - Morpheme: ELIG IBLY 
+ESPIES - By LtoS rules
+CENOTAPH - By LtoS rules
+APPAL - By LtoS rules
+HADST - By LtoS rules
+SEATJUST - Morpheme: SEAT JUST 
+ENFOLDS - Morpheme: EN FOLD S 
+ATTIRETH - Morpheme: ATTIRE ETH 
+KNOWEST - Morpheme: KNOW EST 
+CLOVERS - Morpheme: CLOVER S 
+QUICKLIKE - Morpheme: QUICK LIKE 
+TERN - Main 
+WHIST - By LtoS rules
+ASHINE - Morpheme: A SHINE 
+COMPASSED - Morpheme: COMPASS ED 
+INHERITORS - Morpheme: INHERIT OR S 
+BLASPHEME - Morpheme: BLASPHEME 
+WORTHLESSNESS - Morpheme: WORTH LESS NESS 
+ANEMONES - By LtoS rules
+INANITION - By LtoS rules
+MORTALITYS - Morpheme: MORTALITY S 
+TAMBORIN - By LtoS rules
+MAJESTIES - Morpheme: MAJESTY ES 
+PRATE - By LtoS rules
+GIBRALTARS - By LtoS rules
+STUPENDOUSNESS - Morpheme: STUPENDOUS NESS 
+DISTINCTNESS - Morpheme: DISTINCT NESS 
+NULLS - Morpheme: NULL S 
+DIMNESS - Morpheme: DIM NESS 
+WHIMPERS - Morpheme: WHIMPER S 
+HOMELIER - Morpheme: HOME LY ER 
+STREWS - By LtoS rules
+VERDURE - Morpheme: VERD URE 
+BESETS - Morpheme: BE SET S 
+SOEVER - By LtoS rules
+SINEW - Morpheme: SINEW 
+SOBERER - Morpheme: SOBER ER 
+OERTAKELESS - By LtoS rules
+INCAUTIOUS - Morpheme: IN CAUTIOUS 
+QUIBBLED - Morpheme: QUIBBLE ED 
+UNCONSPICUOUS - Morpheme: UN CONSPICUOUS 
+UNLADEN - Morpheme: UN LADE EN 
+NIGHTGOWNS - Morpheme: NIGHT GOWN S 
+MERCURYS - Morpheme: MERCURY S 
+WITHHOLDEN - Morpheme: WITH HOLD EN 
+CHIMBORAZO - By LtoS rules
+PIERCES - Morpheme: PIERCE ES 
+ANNEALED - By LtoS rules
+CAJOLES - By LtoS rules
+UNBRAIDING - Morpheme: UN BRAID ING 
+GRIMED - Morpheme: GRIME ED 
+BRIDALLED - Morpheme: BRIDE AL ED 
+TRILLED - Morpheme: TRILL ED 
+CRASHS - Morpheme: CRASH S 
+FAMES - Morpheme: FAME S 
+FRESHET - By LtoS rules
+QUAINTEST - Morpheme: QUAINT EST 
+UNPRETENDING - Morpheme: UN PRE TEND ING 
+DISPARAGEMENT - Morpheme: DISPARAGE MENT 
+SOMEBODYS - Morpheme: SOMEBODY S 
+OBLOQUY - By LtoS rules
+THESSALY - Morpheme: THE ES AL Y 
+POPOCATAPEL - By LtoS rules
+CHRYSOLITE - By LtoS rules
+KIDDERMINSTER - By LtoS rules
+UNVISITED - Morpheme: UN VISIT ED 
+TWOULD - By LtoS rules
+TALELESS - Morpheme: TALE LESS 
+FAMISH - Morpheme: FAME ISH 
+MARSHALLINGS - Morpheme: MARSHAL LING S 
+GREEDINESS - Morpheme: GREED Y NESS 
+BRIGAND - By LtoS rules
+DEFACES - Morpheme: DE FACE ES 
+CASEMENT - Morpheme: CASE MENT 
+DECALOGUE - By LtoS rules
+MISGIVES - Morpheme: MIS GIVE S 
+OBLOQUIES - By LtoS rules
+HALLOWING - Morpheme: HALLOW ING 
+WOULDST - By LtoS rules
+GIRLHOODS - Morpheme: GIRL HOOD S 
+EXTENTS - Morpheme: EXTENT S 
+SELDOMLY - Morpheme: SELDOM LY 
+PROFANED - Morpheme: PROFANE ED 
+EPAULETTED - Morpheme: EPAULET ED 
+DEMOSTHENES - By LtoS rules
+RITARDANDO - By LtoS rules
+MATURER - Morpheme: MATURE ER 
+DIMITY - Morpheme: DIME ITY 
+PAIDST - By LtoS rules
+CORINTHIANS - By LtoS rules
+SMOULDERING - By LtoS rules
+PRITHEE - Morpheme: PRY TH EE 
+ENCHANTS - Morpheme: EN CHANT S 
+ASELF - Morpheme: A SELF 
+BEFALLING - Morpheme: BE FALL ING 
+AUGUSTAN - By LtoS rules
+FRINGED - Morpheme: FRINGE ED 
+INDIAMAN - Morpheme: INDIA MAN 
+CONTENTETH - Morpheme: CONTENT ETH 
+SHREWDER - Morpheme: SHREWD ER 
+FATHOMED - Morpheme: FATHOM ED 
+KNEELS - Morpheme: KNEEL S 
+HYBLA - By LtoS rules
+TINTING - Morpheme: TINT ING 
+DIMINUET - By LtoS rules
+EXHILARATES - Morpheme: EXHILAR ATE S 
+PRACTISING - Morpheme: PRACTISE ING 
+CREDIBILITYS - Morpheme: CRED IBILITY S 
+WHIR - Morpheme: WHIR 
+PATIENTEST - Morpheme: PATI ENT EST 
+GLADDENED - Morpheme: GLADDEN ED 
+STRANGERD - By LtoS rules
+BONNETS - Morpheme: BONNET S 
+CONJECTURED - Morpheme: CONJECTURE ED 
+SUFFICETH - Morpheme: SUFFICE ETH 
+FOXGLOVES - Morpheme: FOX GLOVE S 
+WAYLAYING - Morpheme: WAY LAY ING 
+SWAGGERS - Morpheme: SWAGGER S 
+EXPENDS - Morpheme: EXPEND S 
+PRICKLIER - Morpheme: PRICKLY ER 
+ABETS - Morpheme: ABET S 
+NOTCHING - Morpheme: NOTCH ING 
+APOSTACY - Morpheme: A POST ACY 
+RECEIPTED - Morpheme: RECEIPT ED 
+SPRIG - Morpheme: SPRIG 
+UNDECAYING - Morpheme: UN DECAY ING 
+IMPERATOR - Morpheme: IM PER ATE OR 
+DUNCE - By LtoS rules
+SOLEMNEST - Morpheme: SOLEMN EST 
+JESSAMINES - Morpheme: JESS A MINE S 
+COCHINEAL - Morpheme: CO CHINE AL 
+WAST - By LtoS rules
+RHODORAS - By LtoS rules
+TAMARIND - By LtoS rules
+ANGLEWORM - Morpheme: ANGLE WORM 
+BETROTHED - Morpheme: BE TROTH ED 
+RENOVATES - Morpheme: RENOVATE S 
+BETHOUGHT - Morpheme: BE THOUGHT 
+LIKEST - Morpheme: LIKE EST 
+ENTHRALL - By LtoS rules
+WHERESOEER - By LtoS rules
+LATHED - Morpheme: LATHE ED 
+OPAQUEST - Morpheme: OPAQUE EST 
+GRIEFS - Morpheme: GRIEF S 
+HADNT - By LtoS rules
+COURSERS - Morpheme: COURSE ER S 
+CUIRASS - By LtoS rules
+BEGONE - Morpheme: BE GONE 
+EXULTATION - Morpheme: EXULTATION 
+UNCONJECTURED - Morpheme: UN CONJECTURE ED 
+HEADLANDS - Morpheme: HEAD LAND S 
+RAVISHED - Morpheme: RAVE ISH ED 
+BARDS - Morpheme: BARD S 
+BROODS - Morpheme: BROOD S 
+SHAGGIER - Morpheme: SHAG Y ER 
+MITRED - Morpheme: MITRE ED 
+ADAMANTINE - By LtoS rules
+GRAPHICKER - Morpheme: GRAPH IC ER 
+CAPUCHIN - By LtoS rules
+GABRIELS - By LtoS rules
+KNOWST - By LtoS rules
+JEHOVAHS - By LtoS rules
+AMBUSCADE - Morpheme: AMBUSCADE 
+JUSTEST - Morpheme: JUST EST 
+SALUBRIOUS - Morpheme: SALUBRIOUS 
+DECALOGUES - By LtoS rules
+AFFIANCE - Morpheme: AFFIANCE 
+ENCOMIUM - Morpheme: ENCOMIUM 
+MASHES - Morpheme: MASH ES 
+STATELIER - Morpheme: STATE LY ER 
+MATINS - Morpheme: MATIN S 
+INDORSEMENT - Morpheme: INDORSE MENT 
+TRANQUILLER - Morpheme: TRANQUIL ER 
+CORRODELESS - Morpheme: CORRODE LESS 
+HERSCHELS - By LtoS rules
+UNHOOKED - Morpheme: UN HOOK ED 
+SIROCCOS - By LtoS rules
+FAILEST - Morpheme: FAIL EST 
+OBLIQUITY - Morpheme: OBLIQUE ITY 
+MARSHALLING - Morpheme: MARSHAL LING 
+EIDER - By LtoS rules
+DISSOLUTE - By LtoS rules
+ADZE - By LtoS rules
+NEIGHS - By LtoS rules
+DUSKER - Morpheme: DUSK ER 
+LISPS - Morpheme: LISP S 
+JOGGLING - By LtoS rules
+BEHEADS - Morpheme: BE HEAD S 
+CONSOLELESSLY - Morpheme: CONSOLE LESS LY 
+SUPREMEST - Morpheme: SUPREME EST 
+STAMMERED - Morpheme: STAMMER ED 
+LEONTODON - By LtoS rules
+INTERROGATES - Morpheme: INTERROGATE S 
+REPEALLESS - Morpheme: REPEAL LESS 
+ETIQUETTES - Morpheme: ETIQUETTE S 
+TRAVERSES - Morpheme: TRAVERSE ES 
+SUSCEPTIVE - Morpheme: SUSCEPT IVE 
+DEITYS - Morpheme: DEITY S 
+LOWLIER - Morpheme: LOW LY ER 
+SCANTEST - Morpheme: SCANT EST 
+PLASHING - By LtoS rules
+ABODES - Morpheme: ABODE S 
+REPOSED - Morpheme: RE POSE ED 
+REPRIEVES - Morpheme: REPRIEVE S 
+HAIRBREADTH - Morpheme: HAIR BREADTH 
+ATROPOS - By LtoS rules
+OUTVISIONS - Morpheme: OUT VISION S 
+SEVRES - By LtoS rules
+RECORDLESS - Morpheme: RECORD LESS 
+STEALTHS - Morpheme: STEALTH S 
+MANTELS - Morpheme: MANTEL S 
+UNTRAVELLED - Morpheme: UN TRAVEL ED 
+ENDOWAL - Morpheme: EN DOW AL 
+IRN - By LtoS rules
+AILED - Morpheme: AIL ED 
+BLESSEDER - Morpheme: BLESS ED ER 
+NAYNATURE - By LtoS rules
+DROWSE - Morpheme: DROWSE 
+PLASHLESS - By LtoS rules
+ABSTEMIOUSLY - By LtoS rules
+TOILETTE - Morpheme: TOIL ETTE 
+BATIZE - Morpheme: BATE IZE 
+RIME - Morpheme: RIME 
+I think this is a non-word: 115
+ONE - Morpheme: ONE 
+ONE - Morpheme: ONE 
+FIVE - Morpheme: FIVE 
+DEPOSES - Morpheme: DE POSE ES 
+DISARMS - Morpheme: DIS ARM S 
+TERRENE - By LtoS rules
+STOPLESS - Morpheme: STOP LESS 
+FEDERATES - Morpheme: FEDER ATE S 
+DEMURRAL - Morpheme: DEMUR AL 
+CIRCASSIAN - By LtoS rules
+BOSPORUS - By LtoS rules
+FARTHINGS - Morpheme: FAR TH ING S 
+DOLLIES - Morpheme: DOLLY ES 
+EXACTNESS - Morpheme: EXACT NESS 
+HARANGUER - Morpheme: HARANGUE ER 
+INTERPOSED - Morpheme: INTER POSE ED 
+SWERVELESS - Morpheme: SWERVE LESS 
+SUNDERED - Morpheme: SUNDER ED 
+SALLOW - Morpheme: SALLOW 
+REAPERS - Morpheme: REAP ER S 
+DELLS - Morpheme: DELL S 
+CONTEMN - By LtoS rules
+FELLOWMEN - Morpheme: FELLOW MEN 
+POINARDS - By LtoS rules
+SCUTCHEOP - By LtoS rules
+NOWS - Morpheme: NOW S 
+PROFOUNDER - Morpheme: PRO FOUNDER 
+LEANETH - Morpheme: LEAN ETH 
+EXTEMPORIZING - Morpheme: EXTEMPORIZE ING 
+IE - By LtoS rules
+BOUNTEOUS - By LtoS rules
+SOVEREIGNTIES - Morpheme: SOVEREIGNTY ES 
+INDIGENCE - Morpheme: INDIG ENCE 
+MUTENESS - Morpheme: MUTE NESS 
+BESTOWAL - Morpheme: BE STOW AL 
+UNBEREFT - Morpheme: UN BEREFT 
+CAPERED - Morpheme: CAPER ED 
+MALIGNITY - Morpheme: MALIGN ITY 
+JOCUND - Morpheme: JOCUND 
+EXCELLENTER - Morpheme: EXCELLENT ER 
+HOUSEWIFES - Morpheme: HOUSE WIFE S 
+ELIJAHS - By LtoS rules
+DESCRY - By LtoS rules
+RAVELLED - Morpheme: RAVEL ED 
+THERELL - By LtoS rules
+PANGLESS - Morpheme: PANG LESS 
+BREADTHS - Morpheme: BREADTH S 
+YOURE - By LtoS rules
+LONELIER - Morpheme: LONE LY ER 
+MYRRHS - Morpheme: MYRRH S 
+NEIGHING - By LtoS rules
+PLASH - By LtoS rules
+FORSAKES - Morpheme: FOR SAKE S 
+MAKETH - Morpheme: MAKE ETH 
+PROPITIATE - Morpheme: PROPITI ATE 
+CHILLEST - Morpheme: CHILL EST 
+NICODERNUS - By LtoS rules
+AUTUMNS - Morpheme: AUTUMN S 
+BREAKFASTED - Morpheme: BREAKFAST ED 
+EXORCISED - Morpheme: EXORCISE ED 
+SHOWETH - Morpheme: SHOW ETH 
+BEHOLDS - Morpheme: BE HOLD S 
+BOBADILO - By LtoS rules
+JOTS - Morpheme: JOT S 
+CHORISTER - Morpheme: CHORE Y STER 
+ATMOSPHERES - Morpheme: ATMOSPHERE S 
+THEYRE - By LtoS rules
+COGS - Morpheme: COG S 
+STEPT - By LtoS rules
+FIFES - Morpheme: FIFE S 
+CURTNESS - Morpheme: CURT NESS 
+RESTITUTES - By LtoS rules
+NUMIDIAN - By LtoS rules
+RESURRECTIONS - Morpheme: RESURRECT ION S 
+ORCHIS - By LtoS rules
+PERFECTER - Morpheme: PERFECT ER 
+STEALTHILY - Morpheme: STEALTH Y LY 
+MEEKEST - Morpheme: MEEK EST 
+UNGRACIOUS - Morpheme: UN GRACIOUS 
+BETIMES - Morpheme: BE TIME S 
+SHRIVELLED - Morpheme: SHRIVEL ED 
+ABLOSSOM - Morpheme: A BLOSSOM 
+BURS - By LtoS rules
+ASTIR - Morpheme: A STIR 
+PRESENTIMENT - Morpheme: PRE SENTIMENT 
+FLITS - Morpheme: FLIT S 
+HAPLY - Morpheme: HAP LY 
+BEAREST - Morpheme: BEAR EST 
+TWASNT - By LtoS rules
+WORTHILY - Morpheme: WORTHY LY 
+DECOYED - Morpheme: DE COY ED 
+UNREMEMBERED - Morpheme: UN REMEMBER ED 
+NOUGHT - By LtoS rules
+SOS - Main 
+EFFACES - Morpheme: EFFACE ES 
+ATTAINMENTS - Morpheme: ATTAIN MENT S 
+PHIALS - By LtoS rules
+CORPOREAL - Morpheme: CORPOREAL 
+EFFACED - Morpheme: EFFACE ED 
+BOBOLINK - By LtoS rules
+PIERLESS - Morpheme: PIER LESS 
+BIRDLING - Morpheme: BIRD LING 
+ASTONISHES - Morpheme: ASTONISH ES 
+MADDEST - Morpheme: MAD EST 
+CORKLESS - Morpheme: CORK LESS 
+WHOVE - By LtoS rules
+UNVARYING - Morpheme: UN VARY ING 
+TWIXT - By LtoS rules
+INVINCIBLY - Morpheme: IN VINCIBLE Y 
+MIDNIGHTS - Morpheme: MID NIGHT S 
+AFFLICTIVE - Morpheme: AFFLICT IVE 
+FLAMBEAUX - By LtoS rules
+MEAGRE - By LtoS rules
+UNHELPED - Morpheme: UN HELP ED 
+PSALTERIES - By LtoS rules
+HOMELIEST - Morpheme: HOME LY EST 
+UNSUSPENDED - Morpheme: UN SUSPEND ED 
+CURELESS - Morpheme: CURE LESS 
+SLINK - By LtoS rules
+EXTREMEST - Morpheme: EXTREME EST 
+CORONAL - Main 
+TRUFFLED - By LtoS rules
+DAPPLED - Morpheme: DAPPLE ED 
+UNFREQUENTED - Morpheme: UN FREQUENT ED 
+CINDERELLAS - By LtoS rules
+BURDOCKS - By LtoS rules
+WHETS - Morpheme: WHET S 
+BUTTERFLYS - Morpheme: BUTTER FLY S 
+CYPHERER - By LtoS rules
+RIPENINGS - Morpheme: RIPEN ING S 
+UNSANCTIFIED - Morpheme: UN SANCT IFY ED 
+ACCOSTS - Morpheme: ACCOST S 
+UNANSWERING - Morpheme: UN ANSWER ING 
+RETRIEVELESS - Morpheme: RETRIEVE LESS 
+DOTES - Morpheme: DOTE S 
+AUSPICIOUSLY - Morpheme: AUSPICIOUS LY 
+TENERIFFE - By LtoS rules
+PHANTASMS - By LtoS rules
+UNTWIST - Morpheme: UN TWIST 
+NOTEXPLAINED - By LtoS rules
+ADHESIONS - Morpheme: ADHES ION S 
+GAMBOLLED - By LtoS rules
+AMPLEST - Morpheme: AMPLE EST 
+LISPING - Morpheme: LISP ING 
+TURBID - By LtoS rules
+WEIGHETH - Morpheme: WEIGH ETH 
+SEEKETH - Morpheme: SEEK ETH 
+GOURMAND - By LtoS rules
+ITALICIZE - Morpheme: ITALICIZE 
+RETRIMMED - Morpheme: RE TRIM ED 
+DEFORMING - Morpheme: DE FORM ING 
+SINGETH - Morpheme: SINGE ETH 
+SPOOLS - By LtoS rules
+COSMOPOLITES - By LtoS rules
+ESTRANGING - Morpheme: ESTRANGE ING 
+DROUGHTLESS - Morpheme: DROUGHT LESS 
+COEVAL - Morpheme: CO EVE AL 
+TILINGS - Morpheme: TILE ING S 
+VEGETATIONS - Morpheme: VEGET ATION S 
+HEMLOCKS - Morpheme: HEMLOCK S 
+NOISELESS - Morpheme: NOISE LESS 
+HIMSELFLIKE - By LtoS rules
+IMPORTUNITY - Morpheme: IMPORTUNE ITY 
+WHEREFORE - Morpheme: WHEREFORE 
+SLAKE - Morpheme: SLAKE 
+VOUCHES - Morpheme: VOUCH ES 
+TARRIED - Morpheme: TARRY ED 
+SPECTRAL - Main 
+HERES - Morpheme: HERE S 
+SAPPHO - By LtoS rules
+AVOWING - Morpheme: AVOW ING 
+UNOBSERVED - Morpheme: UN OBSERVE ED 
+RUSSETLY - Morpheme: RUSSET LY 
+HERMETIC - Morpheme: HERMETIC 
+HUMMED - Morpheme: HUM ED 
+SCAPING - Morpheme: SCAPE ING 
+MERRIMENT - Morpheme: MERRY MENT 
+CONCISEST - Morpheme: CONCISE EST 
+RAVELLING - Morpheme: RAVEL LING 
+REMAINETH - Morpheme: REMAIN ETH 
+DISENTHRALL - By LtoS rules
+CRIERS - Morpheme: CRY ER S 
+UNDEPICTED - Morpheme: UN DEPICT ED 
+CLEOPATRAS - By LtoS rules
+THRUM - Morpheme: THRUM 
+THRO - By LtoS rules
+SPIKENARDS - By LtoS rules
+DOMENICHINO - By LtoS rules
+MEMORE - By LtoS rules
+AGGRANDIZED - By LtoS rules
+CONSCIOUSER - Morpheme: CONSCIOUS ER 
+PERCEIVELESS - Morpheme: PER CEIVE LESS 
+WHITTLES - By LtoS rules
+PERISHES - Morpheme: PERISH ES 
+FINITUDE - Morpheme: FINE ITUDE 
+REPAST - Morpheme: RE PAST 
+ANNULS - By LtoS rules
+OBELISK - Morpheme: OBELISK 
+RETROSPECTION - Morpheme: RETROSPECT ION 
+FORSWEARS - Morpheme: FOR SWEAR S 
+DIVINEST - Morpheme: DIVINE EST 
+THENCEFORWARD - By LtoS rules
+INTEMPERANCE - Morpheme: IN TEMPER ANCE 
+MERCHANTMAN - Morpheme: MERCHANT MAN 
+DISSEMBLER - Morpheme: DISSEMBLE ER 
+SANCTIFIES - Morpheme: SANCT IFY ES 
+QUIVERS - Morpheme: QUIVER S 
+FRILLED - Morpheme: FRILL ED 
+BRAVERIES - Morpheme: BRAVE ERY ES 
+PALLS - Morpheme: PALL S 
+SAITH - Morpheme: SAY TH 
+AUXILIARIES - Morpheme: AUXILIARY ES 
+OUTVIE - Morpheme: OUT VIE 
+MEMRY - By LtoS rules
+REGALE - Morpheme: REGALE 
+WHIRLS - Morpheme: WHIRL S 
+CHID - By LtoS rules
+BANDITTI - By LtoS rules
+QUARTERING - Morpheme: QUARTER ING 
+VERRIERE - By LtoS rules
+TREMENDOUSNESS - Morpheme: TREMENDOUS NESS 
+SUPREMER - Morpheme: SUPREME ER 
+DRUIDIC - Morpheme: DRUID IC 
+SECURER - Morpheme: SECURE ER 
+VIITAIITY - By LtoS rules
+CAVIL - By LtoS rules
+PROPITIATIONS - Morpheme: PROPITI ATION S 
+SNAPT - By LtoS rules
+DUCATS - By LtoS rules
+CULPABLER - By LtoS rules
+PAUSELESS - Morpheme: PAUSE LESS 
+HIDETH - Morpheme: HIDE ETH 
+UNBLUSHINGLY - Morpheme: UN BLUSH INGLY 
+RECUSANCE - Morpheme: RECUS ANCE 
+PILATE - Main 
+WAINSCOT - Morpheme: WAINSCOT 
+WAGGONS - By LtoS rules
+CONTENTEDER - Morpheme: CON TEN TED ER 
+FORCEMAY - Morpheme: FORCE MAY 
+SAGACITY - Morpheme: SAGA CITY 
+EXODY - By LtoS rules
+SUBSISTING - Morpheme: SUB SIST ING 
+GARLANDS - Morpheme: GARLAND S 
+HUNGR - By LtoS rules
+BLANKETLESS - Morpheme: BLANKET LESS 
+INHERES - Morpheme: INHERE S 
+AFFECTINGLY - Morpheme: AFFECT INGLY 
+PUTTETH - Morpheme: PUTT ETH 
+NOWIT - By LtoS rules
+GOODMORROW - Morpheme: GOOD MORROW 
+SUSPENSES - Morpheme: SUSPENSE ES 
+IRRESOLUTE - Morpheme: IR RESOLUTE 
+WISENESS - Morpheme: WISE NESS 
+CHIEFEST - Morpheme: CHIEF EST 
+SWANG - By LtoS rules
+DUSTIEST - Morpheme: DUST Y EST 
+TILLAGE - Main 
+ESCUTCHEON - Morpheme: ESCUTCHEON 
+AFORETIME - Morpheme: A FORE TIME 
+THEYCOME - By LtoS rules
+SETTEST - Morpheme: SET EST 
+MEETST - By LtoS rules
+ADDINGS - Morpheme: ADD ING S 
+TROTWOOD - Morpheme: TROT WOOD 
+EQUIPAGE - Morpheme: EQUIP AGE 
+DROWSING - Morpheme: DROWSE ING 
+DEVASTATES - Morpheme: DEVASTATE S 
+ASSIGNABLE - Morpheme: ASSIGN ABLE 
+SEPAL - By LtoS rules
+DECEIVES - Morpheme: DECEIVE S 
+HERESIES - Morpheme: HERESY ES 
+TIMBUCTOO - By LtoS rules
+CORDIALITY - Morpheme: CORDIAL ITY 
+SUBJECTION - Morpheme: SUBJECT ION 
+UNREVEALED - Morpheme: UN REVEAL ED 
+DISHEVELS - Morpheme: DISHEVEL S 
+POPULATES - Morpheme: POPUL ATE S 
+PROMPTER - Morpheme: PROMPT ER 
+SHEWN - By LtoS rules
+INHERE - Morpheme: INHERE 
+PREAPPOINTED - Morpheme: PRE APPOINT ED 
+PUCKS - Morpheme: PUCK S 
+TRANSFIGURED - Morpheme: TRANS FIGURE ED 
+SUNBURNT - Morpheme: SUN BURNT 
+MEAGRES - By LtoS rules
+LIKEALIVE - Morpheme: LIKE AL IVE 
+INTERMIT - Morpheme: INTER MIT 
+EDIFICES - Morpheme: EDIFICE ES 
+TIMIDNESS - Morpheme: TIMID NESS 
+TRANSMIGRATION - Morpheme: TRANS MIGR ATION 
+GNASHED - Morpheme: GNASH ED 
+BUMBLEBEES - Main 
+INHALES - Morpheme: INHALE S 
+CLOVEN - Morpheme: CLOVE EN 
+ENVIES - Morpheme: ENVY ES 
+TOTTERS - Morpheme: TOTTER S 
+BOBOLINKS - By LtoS rules
+BETIDES - Morpheme: BE TIDE S 
+BARGEMEN - Morpheme: BAR GEM EN 
+SHOPMAN - Morpheme: SHOP MAN 
+REDIGNIFIED - Morpheme: RE DIGNIFY ED 
+RETROSPECTS - Morpheme: RETROSPECT S 
+ARRAIGNS - Morpheme: ARRAIGN S 
+PERTURBLESS - Morpheme: PERTURB LESS 
+GALLANTER - Morpheme: GALLANT ER 
+PARASOLS - Morpheme: PARASOL S 
+SMITES - By LtoS rules
+FOURSCORE - Morpheme: FOUR SCORE 
+PARTOOK - Morpheme: PARTOOK 
+UNSUMMONED - Morpheme: UN SUMMON ED 
+UNSHRIVENL - By LtoS rules
+ARARATS - By LtoS rules
+PURLED - Morpheme: PURL ED 
+INLANDS - Morpheme: INLAND S 
+OUTWITHIN - Morpheme: OUT WITH IN 
+ARTLESS - Morpheme: ART LESS 
+FLESHLY - Morpheme: FLESH LY 
+UPBRAIDS - Morpheme: UP BRAID S 
+VESUVIAN - By LtoS rules
+SORER - Morpheme: SORE ER 
+PROMETHEUS - Main 
+MERCYS - Morpheme: MERCY S 
+CYPHERLESS - By LtoS rules
+DEADTHE - By LtoS rules
+WHATSOEER - By LtoS rules
+BLEMISHLESS - Morpheme: BLEMISH LESS 
+CURDLED - Morpheme: CURDLE ED 
+DISTILS - Morpheme: DISTIL S 
+FAMELESS - Morpheme: FAME LESS 
+DYINGBUT - By LtoS rules
+BELSHAZZAR - By LtoS rules
+REND - Morpheme: REND 
+ENTOMBER - Morpheme: EN TOMB ER 
+FAILLESS - Morpheme: FAIL LESS 
+AURORAN - By LtoS rules
+VENOMS - Morpheme: VENOM S 
+THEREFROM - Morpheme: THEREFROM 
+INVALIDATES - Morpheme: INVALIDATE S 
+NEBO - By LtoS rules
+VESTMENTS - Main 
+CONVERGES - Morpheme: CON VERGE ES 
+WRETCH - Main 
+SKILFUL - By LtoS rules
+TENANTLESS - Morpheme: TEN ANT LESS 
+GRATITUDES - Morpheme: GRATITUDE S 
+MARAUDS - Morpheme: MARAUD S 
+SPANGLES - Morpheme: SPANGLE S 
+RASCALITY - Morpheme: RASCAL ITY 
+CHANTICLEER - Morpheme: CHANT IC LEER 
+MOCHAS - Main 
+BLEATING - Morpheme: BLEAT ING 
+SECRETING - Morpheme: SECRETE ING 
+LATEL - By LtoS rules
+GLUTTON - Morpheme: GLUTTON 
+DISAVOWS - Morpheme: DIS AVOW S 
+CRUMBLESS - Morpheme: CRUMB LESS 
+INFINITUDE - Morpheme: IN FINE ITUDE 
+FIRMAMENTAL - Morpheme: FIRM A MENT AL 
+UNFADING - Morpheme: UN FADE ING 
+CRAVAT - By LtoS rules
+CHISELLED - Morpheme: CHISEL ED 
+CALUMNIES - Morpheme: CALUMNY ES 
+SELECTLY - Morpheme: SELECT LY 
+DISTAFF - By LtoS rules
+BETROTHAL - Morpheme: BE TROTH AL 
+ENFEEBLES - Morpheme: EN FEEBLE S 
+HOOTING - Morpheme: HOOT ING 
+COMPELLETH - Morpheme: COM PEL ETH 
+IMPS - By LtoS rules
+PROGNOSTICS - Morpheme: PROGNOSTIC S 
+SATIETY - Morpheme: SATIETY 
+REJOICES - Morpheme: REJOICE ES 
+REMOTER - Morpheme: RE MOTE ER 
+ACUTER - Morpheme: ACUTE ER 
+BADINAGE - Morpheme: BADINAGE 
+PERSPICACITY - By LtoS rules
+COMPETELESS - Morpheme: COMPETE LESS 
+SAGEST - Morpheme: SAGE EST 
+DECLAIMING - Morpheme: DE CLAIM ING 
+CHILDHOODSOME - Morpheme: CHILD HOOD SOME 
+PHRASELESS - Morpheme: PHRASE LESS 
+LITDE - By LtoS rules
+ITLAST - By LtoS rules
+CALLETH - Morpheme: CALL ETH 
+SOREST - Morpheme: SORE EST 
+BODILESS - Morpheme: BODY LESS 
+CHAPEAUX - By LtoS rules
+VENDED - Morpheme: VEND ED 
+HIST - By LtoS rules
+WESTS - Morpheme: WEST S 
+ISRAELS - By LtoS rules
+ANODYNE - By LtoS rules
+MARROWLESS - Morpheme: MARROW LESS 
+SUFFICING - Morpheme: SUFFICE ING 
+SPLENDORS - Morpheme: SPLEND OR S 
+TUN - By LtoS rules
+ENTHRALLING - Morpheme: ENTHRAL LING 
+UMBER - Morpheme: UMBER 
+CHIMNEYAND - By LtoS rules
+STOUTER - Morpheme: STOUT ER 
+CRUCIFIXAL - Morpheme: CRUCIFIX AL 
+SCANTLY - Morpheme: SCANT LY 
+TOTALNESS - Morpheme: TOTAL NESS 
+DEPUTED - Morpheme: DE PUT ED 
+NOTELESS - Morpheme: NOTE LESS 
+FAMILIARITIES - Morpheme: FAMILIARITY ES 
+UNOBTAINED - Morpheme: UN OBTAIN ED 
+FLAVORLESS - Main 
+INFINITES - Morpheme: INFINITE S 
+INFINITER - Morpheme: INFINITE ER 
+GAIETY - Morpheme: GAIETY 
+PROMPTNESS - Morpheme: PROMPT NESS 
+LARGESTTHEN - Morpheme: LARGE EST TH EN 
+MARL - By LtoS rules
+REPINE - Morpheme: RE PINE 
+QUAILED - By LtoS rules
+PRACTISED - Main 
+SUPERFINE - Morpheme: SUPER FINE 
+SUPERFICIES - By LtoS rules
+BERNARDINE - By LtoS rules
+STALACTITE - By LtoS rules
+UNPRETENSION - Morpheme: UN PRE TENSE ION 
+FOOTLESS - Morpheme: FOOT LESS 
+SOLACED - Morpheme: SOLACE ED 
+POMPLESS - Morpheme: POMP LESS 
+RUSTICS - Morpheme: RUSTIC S 
+ECSTASYS - Morpheme: ECSTASY S 
+HOSTILER - Morpheme: HOSTILE ER 
+SOLACES - Morpheme: SOLACE ES 
+DIVINER - Morpheme: DIVINE ER 
+CODICIL - By LtoS rules
+PENTATEUCHAL - By LtoS rules
+BEQUEATHS - Morpheme: BEQUEATH S 
+HAME - By LtoS rules
+UNSHADED - Morpheme: UN SHADE ED 
+CHAMOIS - Morpheme: CHAMOIS 
+PITTANCES - Morpheme: PIT ANCE ES 
+IVE - By LtoS rules
+PALLIATE - Morpheme: PALLI ATE 
+TRACKLESS - Morpheme: TRACK LESS 
+AUDIBLER - Morpheme: AUD IBLE ER 
+RAPTURES - Morpheme: RAPT URE S 
+THRONES - Morpheme: THRONE S 
+UNDORJE - By LtoS rules
+MOULDERED - Morpheme: MOULD ER ED 
+DELUSIVE - By LtoS rules
+GROPES - Morpheme: GROPE S 
+MOULDERING - Morpheme: MOULD ER ING 
+TWOULDNT - By LtoS rules
+UNPERCEIVED - Morpheme: UN PER CEIVE ED 
+TUGSWITHIN - Morpheme: TUG S WITH IN 
+DESPATCHED - Morpheme: DESPATCH ED 
+BITTERER - Morpheme: BITTER ER 
+LETTER-M - Morpheme: LETTER-M 
+LETTER-O - Morpheme: LETTER-O 
+LETTER-R - Morpheme: LETTER-R 
+LETTER-E - Morpheme: LETTER-E 
+ONE - Morpheme: ONE 
+ENGLANDLY - Morpheme: EN GLAND LY 
+ETNAS - By LtoS rules
+MULTIFOLD - Morpheme: MULTI FOLD 
+TREMBLINGLY - Morpheme: TREMBLE INGLY 
+UNTRAVERSED - Morpheme: UN TRAVERSE ED 
+COMMONEST - Morpheme: COMMON EST 
+GORSE - By LtoS rules
+ILLUME - By LtoS rules
+CORNETS - By LtoS rules
+FOUNDS - Morpheme: FOUND S 
+PARIAN - By LtoS rules
+PASSIVER - Morpheme: PASSIVE ER 
+DAUNTLESS - Morpheme: DAUNT LESS 
+WOMANS - Morpheme: WOMAN S 
+PLUMED - Morpheme: PLUME ED 
+ENDEARS - Morpheme: EN DEAR S 
+BLEATS - Morpheme: BLEAT S 
+OFFENCE - Morpheme: OFFENCE 
+PARTAKING - Morpheme: PARTAKE ING 
+CONVEXAND - By LtoS rules
+ROBBERD - By LtoS rules
+POSSIBLER - Morpheme: POSSIBLE ER 
+POSSIBLES - Morpheme: POSSIBLE S 
+THIRSTED - Morpheme: THIRST ED 
+RUBYS - Morpheme: RUBY S 
+UNERUDITE - Morpheme: UN ERUDITE 
+OUTSTARING - Morpheme: OUT STARE ING 
+SEVERER - Main 
+INTRENCHED - Morpheme: IN TRENCH ED 
+WAYWARDEST - Morpheme: WAY WARD EST 
+STRANGLES - Morpheme: STRANGLE S 
+FADELESS - Morpheme: FADE LESS 
+THROE - Morpheme: THROE 
+ASTERISKS - Morpheme: ASTERISK S 
+TANKARDS - By LtoS rules
+POTOSI - By LtoS rules
+PERUSER - Morpheme: PERUSE ER 
+YOUVE - By LtoS rules
+AMPHITRITE - By LtoS rules
+ANOTHERS - Morpheme: ANOTHER S 
+YOUD - By LtoS rules
+FRITTERS - Morpheme: FRITTER S 
+ENCHANTLESS - Morpheme: EN CHANT LESS 
+STARLESS - Morpheme: STAR LESS 
+ATTENDETH - Morpheme: ATTEND ETH 
+HES - Morpheme: HE S 
+CICATRICE - By LtoS rules
+HED - Morpheme: HE ED 
+INDORSED - Morpheme: INDORSE ED 
+POSTPONELESS - Morpheme: POSTPONE LESS 
+BARONIAL - Morpheme: BARONIAL 
+BETOKEN - Morpheme: BE TOKEN 
+MAKST - By LtoS rules
+DOWERED - Morpheme: DOWER ED 
+PRECONCERTED - Morpheme: PRE CONCERT ED 
+ARRESTLESS - Morpheme: ARREST LESS 
+TERMINUS - Morpheme: TERMINUS 
+JAMAICAS - By LtoS rules
+OPHIR - By LtoS rules
+SCORNING - Morpheme: SCORN ING 
+WEALTHILY - Morpheme: WEALTH Y LY 
+DECAMPING - Morpheme: DE CAMP ING 
+CONCEIVELESS - Morpheme: CON CEIVE LESS 
+BRYANTS - By LtoS rules
+ETERNITIES - Morpheme: ETERNE ITY ES 
+DEFENCES - Morpheme: DE FENCE ES 
+IMPALPABLE - Morpheme: IM PALP ABLE 
+ABASHETH - Morpheme: ABASH ETH 
+UPLIFTS - Morpheme: UP LIFT S 
+BISECTED - Morpheme: BI SECT ED 
+SUBJUGATING - Morpheme: SUBJUGATE ING 
+HASNT - By LtoS rules
+LETHE - By LtoS rules
+EBON - By LtoS rules
+THITHER - Morpheme: THITHER 
+TWERE - By LtoS rules
+DIADEML - By LtoS rules
+CAROLLED - Morpheme: CAROL ED 
+PERADVENTURE - Morpheme: PER ADVENTURE 
+DIADEMS - By LtoS rules
+BERRYS - Morpheme: BERRY S 
+APPARELED - Morpheme: APPAREL ED 
+BEQUEATHING - Morpheme: BEQUEATH ING 
+MANBE - Morpheme: MAN BE 
+REPORTLESS - Morpheme: REPORT LESS 
+NEIGH - By LtoS rules
+BOSOMS - Morpheme: BOSOM S 
+DINNA - By LtoS rules
+BUILCFAS - By LtoS rules
+GENTLEFOLK - Morpheme: GENTLE FOLK 
+ESPIED - By LtoS rules
+SLUNK - By LtoS rules
+COCKADE - Morpheme: COCK ADE 
+OWNEST - Morpheme: OWN EST 
+TRANQUILLITY - Main 
+UNFURNISHED - Morpheme: UN FURNISH ED 
+UNMEANING - Morpheme: UN MEAN ING 
+BESTIR - Morpheme: BE STIR 
+ANYBODYS - Morpheme: ANYBODY S 
+MECHLIN - By LtoS rules
+PERIHELION - By LtoS rules
+CUNNINGLY - Morpheme: CUNNING LY 
+REMEDILESSLY - Morpheme: RE MEDI LESS LY 
+THOMSONS - By LtoS rules
+LACERATING - Morpheme: LACERATE ING 
+CONTROVERTIBLE - Morpheme: CONTROVERTIBLE 
+CONFEDERATES - Morpheme: CON FEDER ATE S 
+DUSKY - Morpheme: DUSK Y 
+BECOMETH - Morpheme: BE COME ETH 
+DOWRIES - Morpheme: DOW RY ES 
+ADROITER - Morpheme: ADROIT ER 
+SITUATES - Morpheme: SITUATE S 
+PLUMMETLESS - Morpheme: PLUMMET LESS 
+MAYEST - Morpheme: MAY EST 
+BOHEA - By LtoS rules
+RECALLLESS - Morpheme: RE CALL LESS 
+PORTENTOUSLY - Morpheme: PORTENTOUS LY 
+DEATHLESSNESS - Morpheme: DEATH LESS NESS 
+LIBATION - By LtoS rules
+PROPOUNDETH - Morpheme: PRO POUND ETH 
+ANTEDATES - Morpheme: ANT ED ATE S 
+MINUETS - Morpheme: MINUET S 
+MAZARIN - Morpheme: MAZE AR IN 
+UNTARNISHED - Morpheme: UN TARNISH ED 
+CHRISTS - Morpheme: CHRIST S 
+UNPUZZLED - Morpheme: UN PUZZLE ED 
+DILAPIDATIONS - Morpheme: DILAPIDATE ION S 
+BESTIRS - Morpheme: BE STIR S 
+VESPERS - By LtoS rules
+NOSEGAYS - Morpheme: NOSE GAY S 
+ESCAPELESS - Morpheme: ESCAPE LESS 
+PARTAKES - Morpheme: PARTAKE S 
+EXTREMER - Morpheme: EXTREME ER 
+TUSCARORA - By LtoS rules
+PARTAKEN - Morpheme: PARTAKE EN 
+BRAVOES - Morpheme: BRAVO ES 
+SUPPLICATE - Morpheme: SUPPLIC ATE 
+TRANQUILLY - Morpheme: TRANQUIL LY 
+TENDERER - Morpheme: TENDER ER 
+TOTTERED - Morpheme: TOTTER ED 
+BECLOUDED - Morpheme: BE CLOUD ED 
+BEHELD - Main 
+DEEMING - Morpheme: DEEM ING 
+BEHELC - By LtoS rules
+EFFERVESCED - By LtoS rules
+SLANTS - Morpheme: SLANT S 
+DEMURER - Morpheme: DEMURE ER 
+ABASHLESS - Morpheme: ABASH LESS 
+EMPERY - By LtoS rules
+GOADS - Morpheme: GOAD S 
+DOON - Morpheme: DO ON 
+UNNUMBERED - Morpheme: UN NUMBER ED 
+JUSTOUR - By LtoS rules
+DREARIER - Morpheme: DREAR Y ER 
+WAFTS - By LtoS rules
+UNWHOLE - Morpheme: UN WHOLE 
+KNOCKER - Morpheme: KNOCK ER 
+THEREAT - By LtoS rules
+ABSENTLY - Morpheme: ABSENT LY 
+PARASOL - Morpheme: PARASOL 
+TABERNACLES - Morpheme: TABERNACLE S 
+LADYS - Morpheme: LADY S 
+REDOUBTABLEST - Morpheme: RE DOUBT ABLE EST 
+DEADPUT - Morpheme: DEAD PUT 
+DEPORTMENTS - Morpheme: DE PORT MENT S 
+RESURGAM - By LtoS rules
+BUCCANEERING - By LtoS rules
+DREST - By LtoS rules
+CORNICE - Morpheme: CORN ICE 
+DARKNESSES - Morpheme: DARK NESS ES 
+ABJURED - By LtoS rules
+GIBBETS - Morpheme: GIBBET S 
+UNTIES - Morpheme: UN TIE ES 
+VIAND - By LtoS rules
+WANTONED - Morpheme: WANTON ED 
+POMPS - Morpheme: POMP S 
+INSPIRITING - Morpheme: IN SPIRIT ING 
+FOREIGNHOOD - Morpheme: FOREIGN HOOD 
+IGNOMINYS - By LtoS rules
+TELEGRAPHIC - Morpheme: TELEGRAPHIC 
+ANODYNES - By LtoS rules
+SHOULDNT - By LtoS rules
+EFFULGENCIES - By LtoS rules
+INCONCEIVABLY - Morpheme: IN CON CEIVE ABLY 
+PLEADER - Morpheme: PLEAD ER 
+PINNACE - By LtoS rules
+SCEPTIC - Morpheme: SCEPTIC 
+BAREHEAD - Morpheme: BARE HEAD 
+UNSUSTAINED - Morpheme: UN SUSTAIN ED 
+UPHOLSTERER - Morpheme: UPHOLSTER ER 
+ADMIRABLER - Morpheme: ADMIRABLE ER 
+SOLIDITIES - Morpheme: SOLIDITY ES 
+JOVE - By LtoS rules
+DEBONNAIRE - By LtoS rules
+SPHERIC - Morpheme: SPHERE IC 
+CONTRIVES - Morpheme: CONTRIVE S 
+EVANESCE - By LtoS rules
+INFESTING - Morpheme: INFEST ING 
+AMPLER - Morpheme: AMPLE ER 
+INFINITENESS - Morpheme: INFINITE NESS 
+FLAGONS - Morpheme: FLAG ON S 
+ISNT - By LtoS rules
+HESPERIAN - By LtoS rules
+CLOUDIER - Morpheme: CLOUD Y ER 
+REPUGNANTLY - Morpheme: REPUGN ANT LY 
+DISCLOSER - Morpheme: DIS CLOSE ER 
+MILLINERY - Morpheme: MILLINERY 
+MILLINERS - Morpheme: MIL LINE ER S 
+THREESCORE - Morpheme: THREE SCORE 
+TYRIAN - By LtoS rules
+UNROLLED - Main 
+ALIGHTING - Morpheme: ALIGHT ING 
+INTERSPERSION - Morpheme: INTERSPERSE ION 
+PHILOLOGY - Morpheme: PHILOLOGY 
+OPPOSITELY - Morpheme: OPPOSITE LY 
+ROADNOT - By LtoS rules
+PLEASANTER - Morpheme: PLEASANT ER 
+FIRMAMENT - By LtoS rules
+VIVAMUS - By LtoS rules
+CHRYSOPRASE - By LtoS rules
+CHIVALRIES - Morpheme: CHIVALR Y ES 
+BRINDLED - Morpheme: BRINDLE ED 
+BROOCHES - By LtoS rules
+EXPIATION - Morpheme: EXPI ATION 
+RASHNESS - Morpheme: RASH NESS 
+FLOORLESS - Morpheme: FLOOR LESS 
+SHRIVEN - Morpheme: SHRIVE EN 
+HENCEFORWARD - By LtoS rules
+IMPERTINENCE - Morpheme: IM PERTIN ENCE 
+DEGREELESS - Morpheme: DEGREE LESS 
+LIVELONG - Morpheme: LIVE LONG 
+BARTSIA - By LtoS rules
+SUBLIMER - Morpheme: SUBLIME ER 
+TENDEREST - Morpheme: TENDER EST 
+TASSELS - Morpheme: TASSEL S 
+ENTRANCING - Morpheme: ENTRANCE ING 
+WHIPPOORWILL - Morpheme: WHIP POOR WILL 
+UNGRASPED - Morpheme: UN GRASP ED 
+SPICIEST - Morpheme: SPICE Y EST 
+WITHES - Morpheme: WITH ES 
+BEGGARY - Morpheme: BEG ARY 
+CRAPE - By LtoS rules
+ANTIQUARY - Morpheme: ANTIQUE ARY 
+DONT - By LtoS rules
+VELLUM - Morpheme: VELLUM 
+BURROWED - Morpheme: BURROW ED 
+THOSOEVER - By LtoS rules
+INCORPOREAL - Morpheme: IN CORPOREAL 
+SHOAL - Morpheme: SHOAL 
+TALISMANIC - Morpheme: TALISMANIC 
+GURGLED - Morpheme: GURGLE ED 
+ENTREATED - Morpheme: EN TREAT ED 
+FOREVERMORE - By LtoS rules
+OVERBOLD - Morpheme: OVER BOLD 
+DOGES - Morpheme: DOG ES 
+PARD - By LtoS rules
+LAPWINGS - Morpheme: LAP WING S 
+DOWNIEST - Morpheme: DOWN Y EST 
+MINUTEST - Morpheme: MINUTE EST 
+VITALIZES - Morpheme: VITAL IZE ES 
+YIELDETH - Morpheme: YIELD ETH 
+LEAGUELESS - Morpheme: LEAGUE LESS 
+ANVILS - Morpheme: ANVIL S 
+RUDDIER - Morpheme: RUDD Y ER 
+MUNIFICENCE - By LtoS rules
+WASNT - By LtoS rules
+FLITTED - Morpheme: FLIT ED 
+SURMISING - Morpheme: SURMISE ING 
+STEMLESS - Morpheme: STEM LESS 
+PRECISER - Morpheme: PRECISE ER 
+UNBARED - Morpheme: UN BARE ED 
+ARKS - By LtoS rules
+QUOTH - Main 
+AMITIES - Morpheme: AMITY ES 
+GOLIAH - By LtoS rules
+TANTAMOURIT - By LtoS rules
+BUSTLED - Morpheme: BUSTLE ED 
+LAPLANDS - Morpheme: LAP LAND S 
+FLAMBEAU - By LtoS rules
+SPACIOUSLY - Morpheme: SPACIOUS LY 
+ARCHERS - Main 
+BLENT - By LtoS rules
+HARRED - By LtoS rules
+VERDIET - By LtoS rules
+FESTAL - Morpheme: FEST AL 
+FOOLISHER - Morpheme: FOOL ISH ER 
+TAMBOURIN - By LtoS rules
+IMPREGNABILITY - Morpheme: IM PREGN ABILITY 
+MADONNAS - By LtoS rules
+FATHOMING - Morpheme: FATHOM ING 
+FRESHETS - By LtoS rules
+REWALKS - Morpheme: RE WALK S 
+TEMPESTS - Morpheme: TEMPEST S 
+SERENER - Morpheme: SERENE ER 
+VIVIDER - Morpheme: VIV ID ER 
+PYRITES - By LtoS rules
+WEVE - By LtoS rules
+STUBBLES - Morpheme: STUBBLE S 
+HIE - By LtoS rules
+EXPOSITOR - Morpheme: EXPOSIT OR 
+WHETTING - Morpheme: WHET ING 
+CLEAVING - Morpheme: CLEAVE ING 
+BETHLEEM - By LtoS rules
+DOUBLET - By LtoS rules
+MANSE - Morpheme: MANSE 
+LOVELINESS - Morpheme: LOVE LY NESS 
+DISENCHANTS - Morpheme: DIS EN CHANT S 
+DECOYING - Morpheme: DE COY ING 
+ATTARS - By LtoS rules
+DESPATCH - Morpheme: DESPATCH 
+UNACKNOWLEDGED - Morpheme: UN ACKNOWLEDGE ED 
+DEBAR - Morpheme: DE BAR 
+OPPED - By LtoS rules
+THEATRICALS - Morpheme: THEATRICAL S 
+WIFES - Morpheme: WIFE S 
+VITALIZE - Morpheme: VITAL IZE 
+EFFLORESCENCE - Morpheme: EFFLORESCE ENCE 
+KNEELED - Morpheme: KNEEL ED 
+BELSHAZZARS - By LtoS rules
+KITCHEND - By LtoS rules
+ORIENTS - Morpheme: ORIENT S 
+DUMBLY - Morpheme: DUMB LY 
+EFFACELESS - Morpheme: EFFACE LESS 
+WHOLL - By LtoS rules
+ENCHANTMENTS - Morpheme: EN CHANT MENT S 
+SETDED - By LtoS rules
+POSSESSETH - Morpheme: POSSESS ETH 
+SAUNTERING - By LtoS rules
+POLTROON - By LtoS rules
+INSTANTS - Morpheme: INST ANT S 
+SMOTE - By LtoS rules
+PENINSULAS - Morpheme: PENINSULA S 
+WHOS - Morpheme: WHO S 
+DAINTIER - Morpheme: DAINTY ER 
+BEAUTYS - Morpheme: BEAUTY S 
+WHOD - By LtoS rules
+ILLUMINES - Morpheme: IL LUMINE S 
+SLIPT - By LtoS rules
+CATOS - Morpheme: CAT OS 
+IGNIS - By LtoS rules
+DUNGEONED - Morpheme: DUNGEON ED 
+DOMINIS - Morpheme: DOMIN Y S 
+LOVEST - Morpheme: LOVE EST 
+GAMBOGE - By LtoS rules
+DOMINIE - Morpheme: DOMIN IE 
+STIPULUS - By LtoS rules
+SOMBRE - Morpheme: SOMBRE 
+THERES - Morpheme: THERE S 
+CONCERNLESS - Morpheme: CONCERN LESS 
+GAMUTS - Morpheme: GAMUT S 
+WIFEHOOD - Morpheme: WIFE HOOD 
+TIMBRELS - By LtoS rules
+PALSIED - Morpheme: PALSY ED 
+SATYRS - By LtoS rules
+ASSUAGES - Morpheme: ASSUAGE ES 
+CONSTANCYS - Morpheme: CONST ANCY S 
+CITADELS - By LtoS rules
+SAGACIOUS - Morpheme: SAGE ACY OUS 
+CEREMONIOUS - Morpheme: CEREMONIOUS 
+FUSTIAN - By LtoS rules
+ITALICIZED - Morpheme: ITALICIZE ED 
+SHIVERERS - Morpheme: SHIVER ER S 
+DROWSIEST - Morpheme: DROWSE Y EST 
+LATITUDELESS - Morpheme: LATITUDE LESS 
+WINCES - Morpheme: WINCE ES 
+ABSTEMIOUS - By LtoS rules
+WAKENS - Morpheme: WAKEN S 
+POMPEII - By LtoS rules
+WISHFULNESS - Morpheme: WISH FUL NESS 
+STATESMANS - Morpheme: STATE S MAN S 
+DOMINIONS - Morpheme: DOMINION S 
+UNWEARIED - Morpheme: UN WEARY ED 
+SOPHISTRIES - By LtoS rules
+BURDOCK - By LtoS rules
+GAMBRELS - By LtoS rules
+THEWS - By LtoS rules
+ALMANACS - Morpheme: ALMANAC S 
+FAGOT - By LtoS rules
+EER - By LtoS rules
+EEN - By LtoS rules
+GRANDSIRES - Morpheme: GRAND SIRE S 
+BUCKETWERE - By LtoS rules
+REFRACTED - Morpheme: REFRACT ED 
+CANST - By LtoS rules
+ALIMENT - Morpheme: A LIME ENT 
+UNSUBSTANTIAL - Morpheme: UN SUBSTANTIAL 
+METRES - Main 
+ECLAT - Morpheme: ECLAT 
+PLAYETH - Morpheme: PLAY ETH 
+FATHERD - Morpheme: FAT HERD 
+VIVIMUS - By LtoS rules
+STAMENS - Morpheme: STAMEN S 
+EPICURES - Morpheme: EPICURE S 
+BRITDE - By LtoS rules
+SYNODS - Morpheme: SYNOD S 
+PELF - By LtoS rules
+DURABLER - Morpheme: DURE ABLE ER 
+LISPED - Morpheme: LISP ED 
+UNJADED - Morpheme: UN JADE ED 
+DESCRIED - By LtoS rules
+OER - By LtoS rules
+REDEEMERS - Morpheme: RE DEEM ER S 
+VITALS - Morpheme: VITAL S 
+BISECTING - Morpheme: BI SECT ING 
+WOULDNT - By LtoS rules
+MESMERIC - Morpheme: ME S MERE IC 
+GIANTURE - Morpheme: GIANT URE 
+SEPULTURE - By LtoS rules
+FRUITLESSER - Morpheme: FRUIT LESS ER 
+HEEDLESS - Morpheme: HEED LESS 
+ENGINERY - Morpheme: ENGINE ERY 
+ANANIAS - By LtoS rules
+DIAMETERS - Morpheme: DIAMETER S 
+SUPPLICATING - Morpheme: SUPPLIC ATE ING 
+LEARNETH - Morpheme: LEARN ETH 
+TINGLES - Morpheme: TINGLE S 
+UNINTENDING - Morpheme: UN IN TEND ING 
+ABBEYS - Morpheme: ABBEY S 
+SPECIFICAL - Morpheme: SPECIFIC AL 
+EXTEMPORANEOUS - By LtoS rules
+IMPUDENT - Morpheme: IMPUD ENT 
+WAKELESSNESS - Morpheme: WAKE LESS NESS 
+AZOF - By LtoS rules
+GRANDAMES - By LtoS rules
+STILLEST - Morpheme: STILL EST 
+ECSTASIES - Morpheme: ECSTASY ES 
+STARKEST - Morpheme: STARK EST 
+IMMURED - By LtoS rules
+RINGLET - Morpheme: RING LET 
+REPRIEVING - Morpheme: REPRIEVE ING 
+THOTHE - By LtoS rules
+PERFECTNESS - Morpheme: PERFECT NESS 
+QUAINTER - Morpheme: QUAINT ER 
+DAZZLINGLY - Morpheme: DAZZLE INGLY 
+REVEILLE - By LtoS rules
+SHES - Morpheme: SHE ES 
+CURRICLE - By LtoS rules
+GRAVITATIONS - Morpheme: GRAVIT ATION S 
+SCINTILLATES - Morpheme: SCINTILL ATE S 
+ORGANDY - Morpheme: ORGANDY 
+CURRER - Morpheme: CUR ER 
+NECTARS - Morpheme: NECTAR S 
+VITALLESS - Morpheme: VITAL LESS 
+THEYLL - By LtoS rules
+VITALLEST - Morpheme: VITAL EST 
+RESITUATED - Morpheme: RE SITUATE ED 
+TARE - By LtoS rules
+FRUCTIFIED - By LtoS rules
+TRANSMUTED - Morpheme: TRANS MUTE ED 
+JOCOSER - Morpheme: JOCOSE ER 
+KIRTLE - By LtoS rules
+GIMLETS - By LtoS rules
+PHAETON - By LtoS rules
+THREADLESS - Morpheme: THREAD LESS 
+VICI - By LtoS rules
+SOLEMNER - Morpheme: SOLEMN ER 
+DEMANDETH - Morpheme: DEMAND ETH 
+FURZE - By LtoS rules
+SIXPENCE - By LtoS rules
+LOWLIEST - Morpheme: LOW LY EST 
+FLESHLESS - Morpheme: FLESH LESS 
+SURCINGLES - By LtoS rules
+STATURES - Morpheme: STATURE S 
+NOTABILITY - Morpheme: NOTE ABILITY 
+OCLOCK - By LtoS rules
+COUNTERPASS - Morpheme: COUNTER PASS 
+SCARLETS - Morpheme: SCARLET S 
+SEPTEMBERS - Morpheme: SEPTEMBER S 
+GLEES - Morpheme: GLEE S 
+STATURED - Morpheme: STATURE ED 
+COQUETTISH - Morpheme: COQUETTE ISH 
+PINIONS - Morpheme: PINION S 
+PHYSIOGNOMY - Morpheme: PHYSIOGNOMY 
+SUBLIMELY - Morpheme: SUBLIME LY 
+MOTTLES - Morpheme: MOTTLE S 
+TURBANED - Morpheme: TURBAN ED 
+KINSMEN - Morpheme: KIN S MEN 
+HAVENT - By LtoS rules
+CHRYSOPHRASE - By LtoS rules
+ENCLOSES - Morpheme: EN CLOSE ES 
+SACKCLOTH - Morpheme: SACK CLOTH 
+THRONGING - Morpheme: THRONG ING 
+PERIPHRASIS - By LtoS rules
+LANGUOR - By LtoS rules
+BENUMBING - Morpheme: BE NUMB ING 
+WHIFFIETREE - Morpheme: WHIFF IE TREE 
+UNSHARED - Morpheme: UN SHARE ED 
+SEPULCHRE - Morpheme: SEPULCHRE 
+WEARIEST - Morpheme: WEARY EST 
+CORDILLERA - Morpheme: CORD ILL ERA 
+EDENLL - By LtoS rules
+ACCOSTAL - Morpheme: ACCOST AL 
+CUBITS - By LtoS rules
+INDUSTRIOUSNESS - Morpheme: INDUSTRIOUS NESS 
+FISHERMANS - Morpheme: FISH ER MAN S 
+BODK - By LtoS rules
+PERPLEXEDLY - Morpheme: PERPLEX EDLY 
+ASKETH - Morpheme: ASK ETH 
+ARCHNESS - Morpheme: ARCH NESS 
+DROPT - By LtoS rules
+METRE - Main 
+REDBREAST - Morpheme: RED BREAST 
+REMITS - Morpheme: RE MIT S 
+ASPHODEL - By LtoS rules
+PLUMPER - Morpheme: PLUMP ER 
+TYPIC - Morpheme: TYPIC 
+VAUNT - By LtoS rules
+CLIME - Morpheme: CLIME 
+HASPS - Morpheme: HASP S 
+THATS - Morpheme: THAT S 
+CONTENTMENTS - Morpheme: CONTENT MENT S 
+ALTHO - By LtoS rules
+DECLIVITY - Morpheme: DECLIVITY 
+CONJECTURING - Morpheme: CONJECTURE ING 
+RIPENESS - Morpheme: RIPE NESS 
+COMPREHENDETH - Morpheme: COMPREHEND ETH 
+ETERNITYS - Morpheme: ETERNE ITY S 
+YCLEPT - By LtoS rules
+CRAG - Morpheme: CRAG 
+DEBAUCHEE - Morpheme: DEBAUCH EE 
+CAVILER - By LtoS rules
+COMBINEDLY - Morpheme: COMBINE EDLY 
+HUELESS - Morpheme: HUE LESS 
+GOLDWHO - By LtoS rules
+LOOKETH - Morpheme: LOOK ETH 
+RESOWN - Morpheme: RE SOWN 
+MEED - Morpheme: ME ED 
+PERPENDICULARS - Morpheme: PERPENDICULAR S 
+GOALLESS - Morpheme: GOAL LESS 
+DIDNT - By LtoS rules
+CHERUBIM - Morpheme: CHERUBIM 
+THERMOPYLAE - By LtoS rules
+INTUITIONS - Morpheme: IN TUITION S 
+UNAPPROACHED - Morpheme: UN APPROACH ED 
+ANTEDATE - Morpheme: ANT ED ATE 
+PROCURES - Morpheme: PRO CURE S 
+NEARNESS - Morpheme: NEAR NESS 
+TODDLED - Morpheme: TODDLE ED 
+GENEVAS - By LtoS rules
+RESOLUTER - Morpheme: RESOLUTE ER 
+MANACLES - By LtoS rules
+PALER - Morpheme: PALE ER 
+DNIEPER - By LtoS rules
+ACHASE - Morpheme: A CHASE 
+RAIMENT - Morpheme: RAY MENT 
+WRENS - By LtoS rules
+CHASTENS - By LtoS rules
+POLITEAND - By LtoS rules
+BOUNDLESSNESS - Morpheme: BOUND LESS NESS 
+EVENTIDE - Morpheme: EVEN TIDE 
+IMMENSITY - Morpheme: IMMENSE ITY 
+OVERSETS - Morpheme: OVER SET S 
+WALTZED - Morpheme: WALTZ ED 
+SLUMBERETH - Morpheme: SLUMBER ETH 
+SIGHTLESS - Morpheme: SIGHT LESS 
+SEDULOUS - Morpheme: SEDULOUS 
+THYSELF - Main 
+ADDERS - Morpheme: ADD ER S 
+OBEISANCE - Main 
+WHEREON - Morpheme: WHEREON 
+LETTRES - By LtoS rules
+ALWAY - By LtoS rules
+PLAYFELLOW - Morpheme: PLAY FELLOW 
+PERFECTEST - Morpheme: PERFECT EST 
+MODESTIES - Morpheme: MODESTY ES 
+BANQUETTINGS - Morpheme: BANQUET ING S 
+ABSTEMIOUSNESS - By LtoS rules
+EXISTENCES - Morpheme: EXIST ENCE ES 
+PREVISION - Morpheme: PRE VISION 
+CAMBRIC - By LtoS rules
+INTERWORN - Morpheme: INTER WORN 
+SOEER - By LtoS rules
+KINSMANLESS - Morpheme: KIN S MAN LESS 
+DWELLETH - Morpheme: DWELL ETH 
+NAZARENE - By LtoS rules
+ABLATIVE - Morpheme: A BLAT IVE 
+FOOTMEN - Morpheme: FOOT MEN 
+QUIVERED - Morpheme: QUIVER ED 
+VERILY - Morpheme: VER Y LY 
+IMPANELLED - Morpheme: IM PANEL ED 
+DOWERLESS - Morpheme: DOWER LESS 
+TARRYING - Morpheme: TARRY ING 
+ENCAMPING - Morpheme: EN CAMP ING 
+SOLEMNIZES - Morpheme: SOLEMN IZE ES 
+SPUMED - Morpheme: SPUME ED 
+SCIMITAR - Morpheme: SCIMITAR 
+PALMLEAF - Morpheme: PALM LEAF 
+ESTEEMING - Morpheme: ESTEEM ING 
+ETHIOP - By LtoS rules
+VANDYKES - Morpheme: VAN DYKE S 
+TULLE - Morpheme: TULLE 
+BOANERGES - By LtoS rules
+TONGUELESS - Morpheme: TONGUE LESS 
+WORKMANSHIPS - Morpheme: WORK MAN SHIP S 
+ILLOCALITY - Morpheme: IL LOCALITY 
+SOLDERED - Morpheme: SOLDER ED 
+DESIRELESS - Morpheme: DESIRE LESS 
+WRECKETH - Morpheme: WRECK ETH 
+DISEMBODIES - Morpheme: DIS EM BODY ES 
+MOIETY - By LtoS rules
+DEMIJOHN - By LtoS rules
+CHINTZ - By LtoS rules
+FAMISHING - Morpheme: FAME ISH ING 
+BAPTIZES - Morpheme: BAPTIZE ES 
+BESEEMETH - Morpheme: BE SEEM ETH 
+SOUNDLESS - Morpheme: SOUND LESS 
+AUGHT - Main 
+PRUDENTER - Morpheme: PRUD ENT ER 
+HILLOCKS - By LtoS rules
+OMNIFOLD - By LtoS rules
+CANTICLE - Morpheme: CANTICLE 
+UNSCRUTINIZED - By LtoS rules
+GAMBOL - By LtoS rules
+FAINTS - Morpheme: FAINT S 
+BEGGARED - Morpheme: BEGGAR ED 
+CONSTERNATIONS - Morpheme: CONSTERNATION S 
+FASHIONLESS - Morpheme: FASHION LESS 
+WAKED - Morpheme: WAKE ED 
+TERRIBLER - Morpheme: TERR IBLE ER 
+BISCAYAN - By LtoS rules
+SILENTER - Morpheme: SILENT ER 
+CLOVE - Morpheme: CLOVE 
+OVERTAKELESSNESS - Morpheme: OVER TAKE LESS NESS 
+APRILS - Morpheme: APRIL S 
+OERSPENT - By LtoS rules
+MORTISED - Morpheme: MORT Y S ED 
+AWES - Morpheme: AWE S 
+COMEST - Morpheme: COME EST 
+PIZARROS - By LtoS rules
+TINCTURED - Morpheme: TINCTURE ED 
+ACHIRRUP - By LtoS rules
+DEATHLESS - Morpheme: DEATH LESS 
+INSTIL - By LtoS rules
+CIRCUMSCRIBES - Morpheme: CIRCUM SCRIBE S 
+COULDST - By LtoS rules
+NOTELESSLY - Morpheme: NOTE LESS LY 
+ORGOT - By LtoS rules
+SERAPH - By LtoS rules
+CHANCEL - Morpheme: CHANCEL 
+CHANCED - Morpheme: CHANCE ED 
+ILLUMINE - Morpheme: IL LUMINE 
+UNPLAUSIBLE - Morpheme: UN PLAUS IBLE 
+MANACLE - By LtoS rules
+ENAMELLED - Morpheme: ENAMEL ED 
+BRAYED - Morpheme: BRAY ED 
+UNDIVINE - Morpheme: UN DIVINE 
+DISTINCTER - Morpheme: DISTINCT ER 
+ELFS - By LtoS rules
+LUSTRAL - Morpheme: LUSTRE AL 
+FLATTENS - Morpheme: FLATTEN S 
+UNANOINTED - By LtoS rules
+WHIMPERED - Morpheme: WHIMPER ED 
+PUZZLEST - Morpheme: PUZZLE EST 
+ABTOAD - By LtoS rules
+BISECT - Morpheme: BI SECT 
+NUTRIMENT - Morpheme: NUT RY MENT 
+SAUNTERED - By LtoS rules
+TOBYS - By LtoS rules
+HEMISPHERES - Morpheme: HEMISPHERE S 
+MANYS - Morpheme: MANY S 
+I think this is a non-word: SHD
+LETTER-S - Morpheme: LETTER-S 
+LETTER-H - Morpheme: LETTER-H 
+D - By LtoS rules
+MINISTERED - Morpheme: MINISTER ED 
+SHO - By LtoS rules
+ODIOUSER - Morpheme: ODIOUS ER 
+ALLURES - Morpheme: ALLURE S 
+RESPITES - Morpheme: RESPITE S 
+FINITENESS - Morpheme: FINITE NESS 
+DESPOILED - Morpheme: DE SPOIL ED 
+GLORYS - Morpheme: GLORY S 
+COVETING - Morpheme: COVET ING 
+FTEDS - By LtoS rules
+IBYE - By LtoS rules
+YOULL - By LtoS rules
+ANCIENTER - Morpheme: ANCIENT ER 
+GETHSEMANE - By LtoS rules
+DATELESS - Morpheme: DATE LESS 
+JOGGLE - By LtoS rules
+MARROWS - Morpheme: MARROW S 
+ASLANT - Morpheme: A SLANT 
+FERVORS - Morpheme: FERV OR S 
+LEASTA - By LtoS rules
+PERFIDIOUS - Morpheme: PERFIDIOUS 
+UNTUMBLED - Morpheme: UN TUMBLE ED 
+KINSMANSHIP - Morpheme: KIN S MAN SHIP 
+VIANDS - By LtoS rules
+BEGUILES - Morpheme: BE GUILE S 
+SUMPTUOUSNESS - Morpheme: SUMPTUOUS NESS 
+CASTANET - Morpheme: CASTANET 
+VERMINS - By LtoS rules
+FEEBLEST - Morpheme: FEEBLE EST 
+VENI - By LtoS rules
+LITTLEMINOR - Morpheme: LITTLE MINOR 
+LASSITUDES - Morpheme: LASS ITUDE S 
+SANCTIFYING - Morpheme: SANCT IFY ING 
+BUMBLEBEE - Main 
+CHIEFER - Morpheme: CHIEF ER 
+COLUMNAR - Morpheme: COLUMN AR 
+SEPULCHRAL - Morpheme: SEPULCHRE AL 
+NOBLENESS - Morpheme: NOBLE NESS 
+BEHOOVETH - Morpheme: BEHOOVE ETH 
+UNCERTIFIED - Morpheme: UN CERTIFY ED 
+ADDETH - Morpheme: ADD ETH 
+HAREBELL - Morpheme: HARE BELL 
+MAGNETIZE - Morpheme: MAGNET IZE 
+PROSY - Morpheme: PROSE Y 
+OBLIVIONS - Morpheme: OBLIVION S 
+FINITY - Morpheme: FINE ITY 
+WAKINGS - Morpheme: WAKE ING S 
+DOUBLOONS - Morpheme: DOUBLOON S 
+VEXT - By LtoS rules
+VASTER - Morpheme: VAST ER 
+CLAMORS - Morpheme: CLAMOR S 
+FEBRUARYS - Morpheme: FEBRUARY S 
+DIEMANS - Morpheme: DIE MAN S 
+UNGAINED - Morpheme: UN GAIN ED 
+SURETIES - Morpheme: SURE TIE ES 
+TISNT - By LtoS rules
+PRICKLED - Morpheme: PRICK LED 
+CEREMENTS - By LtoS rules
+FIRMAMENTS - By LtoS rules
+UNSOWN - Morpheme: UN SOWN 
+CAUSEDIT - By LtoS rules
+ITSCAN - Morpheme: IT S CAN 
+UNFITTED - Morpheme: UN FIT ED 
+BUILDED - Morpheme: BUILD ED 
+GRANDMAMA - By LtoS rules
+AFFRIGHT - By LtoS rules
+CONDESCENDED - Morpheme: CONDESCEND ED 
+APOSTASY - By LtoS rules
+RAMBLES - Morpheme: RAMBLE S 
+VIDI - By LtoS rules
+REPREHEND - By LtoS rules
+NICODEMUS - By LtoS rules
+DIMITIES - Morpheme: DIME ITY ES 
+CONTEMPTS - Morpheme: CONTEMPT S 
+PRACTISE - Main 
+FOUNDETH - Morpheme: FOUND ETH 
+LIBERTYS - Morpheme: LIBERTY S 
+MOMENTLY - Morpheme: MOMENT LY 
+REVERY - Morpheme: REVERY 
+PLUSHES - Morpheme: PLUSH ES 
+INTERVIEWHAD - By LtoS rules
+ENEMYS - Morpheme: ENEMY S 
+CHAOSES - Morpheme: CHAOS ES 
+HEET - By LtoS rules
+RANSOMED - Morpheme: RANSOM ED 
+BROADCLOTH - Morpheme: BROAD CLOTH 
+PARCHING - Morpheme: PARCH ING 
+LIKER - Morpheme: LIKE ER 
+MONTCALM - By LtoS rules
+STINTLESS - Morpheme: STINT LESS 
+STRAIGHTWAY - Morpheme: STRAIGHTWAY 
+TWITTER - Main 
+SINEWS - Morpheme: SINEW S 
+SERAPHS - By LtoS rules
+ANTIQUEST - Morpheme: ANTI QUEST 
+UNATTEMPTED - Morpheme: UN ATTEMPT ED 
+SCATTERS - Morpheme: SCATTER S 
+UTTEREST - Morpheme: UTTER EST 
+STIRLESS - Morpheme: STIR LESS 
+JVTYSELF - By LtoS rules
+COSTUMELESS - Morpheme: COSTUME LESS 
+SCRUTABLE - Morpheme: SCRUT ABLE 
+BARABBAS - By LtoS rules
+HURLS - Morpheme: HURL S 
+PERUKE - By LtoS rules
+PULPY - Morpheme: PULP Y 
+HESPERIDES - By LtoS rules
+GENTIANS - Morpheme: GENTIAN S 
+BENUMBED - Morpheme: BE NUMB ED 
+INDURATED - Morpheme: IN DURE ATE ED 
+SUBLIMEST - Morpheme: SUBLIME EST 
+TRANSITIVE - Morpheme: TRANSIT IVE 
+OERLOOKING - By LtoS rules
+BOGGY - Morpheme: BOG Y 
+REDUCELESS - Morpheme: RE DUCE LESS 
+FLEETER - Morpheme: FLEET ER 
+DOESNT - By LtoS rules
+THEYD - By LtoS rules
+COULDNT - By LtoS rules
+QUAFFING - By LtoS rules
+UNWINDS - Morpheme: UN WIND S 
+SERAPHIC - By LtoS rules
+VASTEST - Morpheme: VAST EST 
+SPORTSMANS - Morpheme: SPORT S MAN S 
+PREFERMENT - Morpheme: PREFERMENT 
+OERTOOK - By LtoS rules
+RELEGATES - Morpheme: RELEGATE S 
+PRECEPTOR - Morpheme: PRECEPT OR 
+GLID - By LtoS rules
+AFRONTED - Morpheme: A FRONT ED 
+GOSSIPPED - Morpheme: GOSSIP ED 
+TILLED - Morpheme: TILL ED 
+ULTIMATES - Morpheme: ULTIMATE S 
+PELTETH - Morpheme: PELT ETH 
+OPTIZAN - By LtoS rules
+REDECKED - Morpheme: RE DECK ED 
+PHOEBES - By LtoS rules
+BEREAVES - Morpheme: BE REAVE S 
+MINUTER - Morpheme: MINUTE ER 
+LITURGIES - Morpheme: LIT URGE Y ES 
+HABILIMENT - By LtoS rules
+GLOBULES - By LtoS rules
+ABYSSS - Morpheme: ABYSS S 
+HUNGERED - Morpheme: HUNGER ED 
+DIDST - By LtoS rules
+GULFING - Morpheme: GULF ING 
+IMPORTUNES - Morpheme: IMPORTUNE S 
+UNRELUCTANTLY - Morpheme: UN RELUCTANT LY 
+FARNESS - Morpheme: FAR NESS 
+PERDITION - Morpheme: PER DITE ION 
+IMPORTUNED - Morpheme: IMPORTUNE ED 
+FATUUS - By LtoS rules
+UNDRAINED - Morpheme: UN DRAIN ED 
+SPECTRES - Morpheme: SPECTRE S 
+CASQUE - By LtoS rules
+SECUREST - Morpheme: SECURE EST 
+SERAPHIM - Main 
+SABACHTHANI - By LtoS rules
+HONORLESS - Morpheme: HONOR LESS 
+MORNS - By LtoS rules
+EDDIED - Morpheme: EDDY ED 
+DAPPERER - Morpheme: DAPPER ER 
+RIPEST - Morpheme: RIPE EST 
+COQUETTE - Morpheme: COQUETTE 
+SURPLICE - By LtoS rules
+ENTREAT - Morpheme: EN TREAT 
+GRASPLESS - Morpheme: GRASP LESS 
+

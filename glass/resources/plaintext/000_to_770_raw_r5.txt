@@ -1,0 +1,64 @@
+template
+
+0	Johnson Number
+1	Franklin Number
+2	Fascicle (0=None)
+3	Stanza Structure (0x0, 0=No Stanzas)
+4	Rhyme Scheme (TBD programmatically)
+5	Johnson Year Written
+6	Johnson Year Published
+7	Franklin Year Written
+8	Franklin Year Published
+9	Johnson Editorial Note
+10	Franklin Editorial Note
+11	Title
+12	\SOT
+13:	\POEM TEXT
+	\EOT
+
+0000
+0000
+0
+0000
+A
+0000
+0000
+0000
+0000
+J_note
+F_note
+SOT
+POEM TEXT
+EOT
+
+EOT\r\n\1\r\n0000\r\n0\r\n0\r\nA\r\n0000\r\n0000\r\n0000\r\n0000\r\nSOT
+
+0018
+0018
+4A3
+AAAA
+1851
+1894
+0000
+0000
+SOT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+POEM TEXT
+
+POEM TEXT
+POEM TEXT
+POEM TEXT
+EOT
